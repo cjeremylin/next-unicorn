@@ -62,7 +62,7 @@
 				"Runtime": "nodejs12.x",
 				"Timeout": "25",
 				"Code": {
-					"S3Bucket": "amplify-next-unicorn-dev-115205-deployment",
+					"S3Bucket": "amplify-next-unicorn-prod-171559-deployment",
 					"S3Key": "amplify-builds/myLambdaFunction-4f6c4a696c6b3830712b-build.zip"
 				}
 			}
