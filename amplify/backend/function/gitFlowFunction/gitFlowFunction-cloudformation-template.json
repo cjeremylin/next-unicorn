@@ -62,8 +62,8 @@
 				"Runtime": "nodejs12.x",
 				"Timeout": "25",
 				"Code": {
-					"S3Bucket": "amplify-next-unicorn-dev-115205-deployment",
-					"S3Key": "amplify-builds/gitFlowFunction-65777464705948715253-build.zip"
+					"S3Bucket": "amplify-next-unicorn-prod-171559-deployment",
+					"S3Key": "amplify-builds/gitFlowFunction-6d6f314976536a387a59-build.zip"
 				}
 			}
 		},
