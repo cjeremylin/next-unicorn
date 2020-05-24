@@ -23,6 +23,11 @@
             "StackName": "amplify-next-unicorn-prod-171559",
             "StackId": "arn:aws:cloudformation:us-east-1:129895292293:stack/amplify-next-unicorn-prod-171559/08628470-9cd6-11ea-82e5-0a0faac5843d",
             "AmplifyAppId": "d1plphwc54l9em"
+        },
+        "categories": {
+            "function": {
+                "gitFlowFunction": {}
+            }
         }
     }
 }

@@ -9,7 +9,7 @@ exports.handler = async (event) => {
     // TODO implement
     const response = {
         statusCode: 200,
-        body: JSON.stringify('Hello from Lambda! This is Dev environment'),
+        body: JSON.stringify('Hello from Lambda! This is Prod environment'),
     };
     return response;
 };
